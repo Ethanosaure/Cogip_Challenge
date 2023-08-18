@@ -75,15 +75,11 @@ We use a project management tool "Trello" to track tasks, issues and milestones.
 
 <p align='left'>
   
-<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/visual-studio.jpg" alt="VSCode" height="60" width="60" />
-
-<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/html5.jpeg" alt="html5" height="60" width="60" />
-
-<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/css.jpg" alt="css" height="60" width="60" />
-
-<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/php_logo.jpg" alt="PHP" height="60" width="60" />
-
-<img src="https://github.com/DelphineLecorney/Template-readme/blob/main/PICTURES_read_me_/myphpadmin.png" alt="phpmyadmin" height="60" width="60" />
+![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 </p>
 
